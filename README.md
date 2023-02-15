@@ -1,3 +1,4 @@
+Oi, sou a Nágila
 
 
 - 🔭 Atualmente estou trabalhando com modelagem, análise e visualização de dados
